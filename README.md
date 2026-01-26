@@ -1,6 +1,6 @@
 # Von Manaois
 
-Frontend-focused Software Developer with experience building production web applications using React, JavaScript, HTML, and CSS. Currently developing full-stack skills with Node.js, Express, and MongoDB.
+Frontend-focused Software Developer with experience building production web applications using React, TypeScript, Next.js, and Tailwind CSS. Developing full-stack expertise with Node.js, Express, and MongoDB.
 
 ---
 
@@ -8,6 +8,9 @@ Frontend-focused Software Developer with experience building production web appl
 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
@@ -21,16 +24,17 @@ Frontend-focused Software Developer with experience building production web appl
 
 ---
 
-## Experience
+## Relevant Experience
 
-Moneris Solutions — Frontend Developer Intern  
-Built React UI components, integrated REST APIs, and managed state with Redux for a production fintech application.
+**Moneris Solutions — Frontend Developer Intern**  
+Built React/TypeScript UI components, integrated REST APIs, and managed state with Redux for a production fintech application.
 
-WimTach Centennial — WordPress Developer  
+**WimTach Centennial — WordPress Developer**  
 Built business websites using custom themes, plugins, and responsive layouts.
 
 ---
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/von-manaois-it  
+
+LinkedIn: [von-manaois-it](https://www.linkedin.com/in/von-manaois-it)  
 Email: von.manaois@gmail.com
