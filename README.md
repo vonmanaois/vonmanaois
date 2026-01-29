@@ -2,6 +2,8 @@
 
 Frontend-focused Software Developer with experience building production web applications using React, TypeScript, Next.js, and Tailwind CSS. Developing full-stack expertise with Node.js, Express, and MongoDB.
 
+Currently learning to be a full stack developer
+
 ---
 
 ## Tech Stack
